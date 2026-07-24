@@ -12,4 +12,5 @@ Basit ve anlaşılır proje yapısı
 Java
 Java Swing
 
-<img width="346" height="632" alt="image" src="https://github.com/user-attachments/assets/3dc29540-ed65-4e01-bde5-5fe22fabf877" />
+<img width="344" height="630" alt="image" src="https://github.com/user-attachments/assets/58386e79-9c0b-4dff-ad66-315934dc16f5" />
+
